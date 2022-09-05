@@ -1,4 +1,4 @@
-# kkutu-typing_match
+# kkutu-typing-match
 
 타자대결 타이핑 매크로  
  
